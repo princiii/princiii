@@ -1,4 +1,4 @@
-'''import tkinter as tk
+import tkinter as tk
 from tkinter import ttk
 
 def button_click(event):
@@ -52,11 +52,5 @@ for button_label in buttons:
 for widget in root.winfo_children():
     widget.bind('<Button-1>', button_click)
 
-root.mainloop()'''
-
-from tkinter import *
-
-root= Tk()
-root.geometry("450x250")
-root.title("My GUI")
 root.mainloop()
+
