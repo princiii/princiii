@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Here is code for creating GUI based calculator using python
+## Here is my some basic initial projects.
 
 <!--
 **princiii/princiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
